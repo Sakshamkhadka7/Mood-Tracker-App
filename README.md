@@ -1,4 +1,4 @@
-# mood_tracker_app
+# :smiley: :smiling_face_with_tear: 	:thinking: 	:money_mouth_face: mood_tracker_app
 
 A new Flutter project.
 
