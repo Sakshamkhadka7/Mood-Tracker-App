@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Screenshot of MoodTracker home Screen
 
-![image alt](https://github.com/Sakshamkhadka7/Mood-Tracker-App/blob/903392501b7a226aff58099f6a9216917b525c71/MoodTrackerHome.png)
+![image alt](https://github.com/Sakshamkhadka7/Mood-Tracker-App/blob/e7a07a17695fa94fc67559ffcea654500b379050/MoodTrackerScreen.png)
 
 
 A few resources to get you started if this is your first Flutter project:
